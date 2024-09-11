@@ -1,0 +1,14 @@
+C:\Users\Amar\source\repos\Text Data Analyzer\bin\Debug\net6.0\Text Data Analyzer.exe
+C:\Users\Amar\source\repos\Text Data Analyzer\bin\Debug\net6.0\Text Data Analyzer.deps.json
+C:\Users\Amar\source\repos\Text Data Analyzer\bin\Debug\net6.0\Text Data Analyzer.runtimeconfig.json
+C:\Users\Amar\source\repos\Text Data Analyzer\bin\Debug\net6.0\Text Data Analyzer.dll
+C:\Users\Amar\source\repos\Text Data Analyzer\bin\Debug\net6.0\Text Data Analyzer.pdb
+C:\Users\Amar\source\repos\Text Data Analyzer\obj\Debug\net6.0\Text Data Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amar\source\repos\Text Data Analyzer\obj\Debug\net6.0\Text Data Analyzer.AssemblyInfoInputs.cache
+C:\Users\Amar\source\repos\Text Data Analyzer\obj\Debug\net6.0\Text Data Analyzer.AssemblyInfo.cs
+C:\Users\Amar\source\repos\Text Data Analyzer\obj\Debug\net6.0\Text Data Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Amar\source\repos\Text Data Analyzer\obj\Debug\net6.0\Text Data Analyzer.dll
+C:\Users\Amar\source\repos\Text Data Analyzer\obj\Debug\net6.0\refint\Text Data Analyzer.dll
+C:\Users\Amar\source\repos\Text Data Analyzer\obj\Debug\net6.0\Text Data Analyzer.pdb
+C:\Users\Amar\source\repos\Text Data Analyzer\obj\Debug\net6.0\Text Data Analyzer.genruntimeconfig.cache
+C:\Users\Amar\source\repos\Text Data Analyzer\obj\Debug\net6.0\ref\Text Data Analyzer.dll
